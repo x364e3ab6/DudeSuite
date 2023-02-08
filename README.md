@@ -21,7 +21,7 @@ Dude这个名字来源自电影《失控玩家》，本来这个程序原来的�
     ![数据爆破](https://user-images.githubusercontent.com/73023058/216890747-b0dfd274-d110-497a-9255-d092ceda8e57.png)
     
 新增插件
-1. Dude Nmap GUI 
+1. Dude Nmap GUI 下载地址：https://github.com/x364e3ab6/Dude/blob/main/%E6%8F%92%E4%BB%B6%E5%88%97%E8%A1%A8/Nmap/
 ![DudePlus_Nmap](https://user-images.githubusercontent.com/73023058/217595152-3b257f4c-bd3b-406a-994c-a3b8dd766063.png)
 
 注：运行环境 .net framework 4.7.2
