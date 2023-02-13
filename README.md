@@ -2,6 +2,9 @@
 
 这是一款手工WEB渗透辅助工具，开发这款工具的动机主要是个人在日常进行渗透测试时，发现在进行WEB渗透这块主要工具还是WEB漏扫、浏览器、Burpsuite完成，在空闲的时候把经常使用到的功能集合成一个程序，期望能替代浏览器及Burpsuite的一些常用功能进行快速操作，其实还写了很多辅助的小工具但是鉴于如果把这些东西全塞进进去程序会变得很臃肿而且未必是常用的，后续会把这些小工具做成插件供大家在程序里有选择的调用。
 
+# 更新提示
+2月13号主程序和插件都做了一些更新，主要内容是修一些小BUG、优化退出程序时资源的清理、还有修改了主程序与插件的通讯方式，也增加了一些字典...所以建议大家下载最新的版本（版本号没变）
+
 # 功能介绍
 用户手册实在是懒得写（我错了...请等我的用户手册），粗略介绍一下主要功能和应用范围。
 
@@ -19,8 +22,12 @@
     ![数据爆破](https://user-images.githubusercontent.com/73023058/216890747-b0dfd274-d110-497a-9255-d092ceda8e57.png)
     
 # 插件列表
-1. Dude Nmap GUI 下载地址：https://github.com/x364e3ab6/Dude/tree/main/插件列表/Nmap
+1. DudePlus Nmap Gui 下载地址：https://github.com/x364e3ab6/Dude/tree/main/插件列表/Nmap
     ![DudePlus_Nmap](https://user-images.githubusercontent.com/73023058/217595152-3b257f4c-bd3b-406a-994c-a3b8dd766063.png)
+    
+2. DudePlux Hydra Gui 下载地址：https://github.com/x364e3ab6/Dude/tree/main/插件列表/Hydra
+    ![Hydra](https://user-images.githubusercontent.com/73023058/218430151-5db60358-69c4-4b4f-b8bf-82eaa971b7dd.jpg)
+
 
 # 运行环境
 .net framework 4.7.2 （Windows10 1709、Windows Server 1709 版本以上不用额外安装）
