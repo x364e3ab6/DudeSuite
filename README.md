@@ -3,9 +3,15 @@
 这是一款手工WEB渗透辅助工具，开发这款工具的动机主要是个人在日常进行渗透测试时发现在进行WEB渗透这块主要工具还是由漏扫、浏览器、Burp完成，在空闲的时候把经常使用到的功能集合成一个程序，期望能替代浏览器及Burp的一些常用功能进行快速操作，后续会把这些小工具做成插件供大家在程序里有选择的调用。
 
 # 程序下载 (v1.0.0.2)
-完整版下载地址：https://github.com/x364e3ab6/Dude/releases/download/v1.0.0.2/Dude_v1.0.0.2.zip
+完整下载地址：https://github.com/x364e3ab6/Dude/releases/download/v1.0.0.2/Dude_v1.0.0.2.zip
+实时更新地址：https://github.com/x364e3ab6/Dude/tree/main
 
-最新更新地址：https://github.com/x364e3ab6/Dude/tree/main
+# 插件下载
+1. Dude Nmap GUI 下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/Nmap   
+2. Dude Hydra GUI 下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/Hydra
+
+# 运行环境
+.Net Framework 4.7.2 （Windows10 1709、Windows Server 1709 版本以上无需额外安装.Net Framework）
 
 # 更新提示 (v1.0.0.2)
 1. 新增“漏洞脚本”功能，用于Poc、Exp样本保存及调用；
@@ -28,13 +34,4 @@
 3. 数据爆破
 提供灵活自定义的爆破功能，在数据重放的基础上实现自动化，主要是通过插入字典标记来实现各类型的爆破，例如账号密码爆破、文件爆破、路径爆破等等，字典标记可结合荷载标记直接让字典实现编码和加密。
 
-# 插件列表
-1. Dude Nmap GUI 下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/Nmap
-    ![DudePlus_Nmap](https://user-images.githubusercontent.com/73023058/217595152-3b257f4c-bd3b-406a-994c-a3b8dd766063.png)
-    
-2. Dude Hydra GUI 下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/Hydra
-    ![Hydra](https://user-images.githubusercontent.com/73023058/218430151-5db60358-69c4-4b4f-b8bf-82eaa971b7dd.jpg)
-
-# 运行环境
-.net framework 4.7.2 （Windows10 1709、Windows Server 1709 版本以上不用额外安装）
 
