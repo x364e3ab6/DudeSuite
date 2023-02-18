@@ -1,0 +1,6 @@
+{
+    "Name": "Dude Hydra GUI",
+    "AssemblyDll": "DudePlus_Hydra.dll",
+    "CreateInstance": "DudePlus_Hydra.HydraMain",
+    "Args": ""
+}
