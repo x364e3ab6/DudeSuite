@@ -4,6 +4,7 @@
 
 # 程序下载 (v1.0.0.2)
 完整下载地址：https://github.com/x364e3ab6/Dude/releases/download/v1.0.0.2/Dude_v1.0.0.2.zip
+
 实时更新地址：https://github.com/x364e3ab6/Dude/tree/main
 
 # 插件下载
