@@ -17,19 +17,18 @@
 # 功能介绍
 用户手册实在是懒得写（我错了...请等我的用户手册），粗略介绍一下主要功能和应用范围。
 
+![Dede](https://user-images.githubusercontent.com/73023058/219853233-8ce24bf2-8f2e-4a9a-a086-f123baf1fef4.jpg)
+
 1. 网站浏览、数据监视
-  提供常规的网站浏览，主要实现浏览器UserAgent和Cookie的快速修改，配合数据监视可精准定位重要请求以便进行后续的数据包修改，实在不满足还有F12控制台功能，实现更复杂的操作。
-    ![网站浏览](https://user-images.githubusercontent.com/73023058/216890682-8df98fff-7f58-47c4-937e-faf1ca7aa8fd.png)
-    ![数据监视](https://user-images.githubusercontent.com/73023058/216890669-cb6e7ef5-1c4e-4f4e-aab1-f29a1e5bf607.png)
-   
+  提供常规的网站浏览，主要实现浏览器UserAgent和Cookie的快速修改，配合数据监视可精准定位重要请求以便进行后续的数据包修改，实在不满足还有F12控制台功能，实现更复杂的操作。  
+  
 2. 数据重放
 提供数据改发包功能，在实际应用中什么POC验证、注入、上传、伪造IP、COOKIE都可以在这里实现，并具有插入荷载功能方便操作不可见字符和字符串进行编码加密等，后续更多的功能会增加。
     ![数据重放](https://user-images.githubusercontent.com/73023058/216890722-5171a8ce-2604-4503-b1f4-681a8d12b69d.png)
     
 3. 数据爆破
 提供灵活自定义的爆破功能，在数据重放的基础上实现自动化，主要是通过插入字典标记来实现各类型的爆破，例如账号密码爆破、文件爆破、路径爆破等等，字典标记可结合荷载标记直接让字典实现编码和加密。
-    ![数据爆破](https://user-images.githubusercontent.com/73023058/216890747-b0dfd274-d110-497a-9255-d092ceda8e57.png)
-    
+
 # 插件列表
 1. Dude Nmap GUI 下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/Nmap
     ![DudePlus_Nmap](https://user-images.githubusercontent.com/73023058/217595152-3b257f4c-bd3b-406a-994c-a3b8dd766063.png)
