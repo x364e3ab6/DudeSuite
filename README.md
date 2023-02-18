@@ -2,8 +2,9 @@
 
 这是一款手工WEB渗透辅助工具，开发这款工具的动机主要是个人在日常进行渗透测试时发现在进行WEB渗透这块主要工具还是由漏扫、浏览器、Burp完成，在空闲的时候把经常使用到的功能集合成一个程序，期望能替代浏览器及Burp的一些常用功能进行快速操作，后续会把这些小工具做成插件供大家在程序里有选择的调用。
 
-# 下载地址 (v1.0.0.2)
-https://github.com/x364e3ab6/Dude/tree/main/
+# 程序下载 (v1.0.0.2)
+完整版下载地址：https://github.com/x364e3ab6/Dude/releases/download/v1.0.0.2/Dude_v1.0.0.2.zip
+最新更新地址：https://github.com/x364e3ab6/Dude/tree/main
 
 # 更新提示 (v1.0.0.2)
 1. 新增“漏洞脚本”功能，用于Poc、Exp样本保存及调用；
