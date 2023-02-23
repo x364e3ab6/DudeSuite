@@ -3,9 +3,9 @@
 这是一款手工WEB渗透辅助工具，开发这款工具的动机主要是个人在日常进行渗透测试时发现在进行WEB渗透这块主要工具还是由漏扫、浏览器、Burp完成，在空闲的时候把经常使用到的功能集合成一个程序，期望能替代浏览器及Burp的一些常用功能进行快速操作，后续会把这些小工具做成插件供大家在程序里有选择的调用。
 
 # 程序下载 (v1.0.0.2)
-完整下载地址：https://github.com/x364e3ab6/Dude/releases/download/v1.0.0.2/Dude_v1.0.0.2.zip
+完整下载地址：https://github.com/x364e3ab6/Dude/releases/tag/v1.0.0.2
 
-实时更新地址：https://github.com/x364e3ab6/Dude/tree/main
+实时更新地址：https://github.com/x364e3ab6/Dude/tree/main (一般更新被修改得文件都不多，直接下载覆盖就好)
 
 # 插件下载
 1. Dude Nmap GUI 下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/Nmap   
