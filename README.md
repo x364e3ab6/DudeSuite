@@ -26,7 +26,8 @@
 # 功能介绍
 用户手册实在是懒得写（我错了...请等我的用户手册），粗略介绍一下主要功能和应用范围。
 
-![Dede](https://user-images.githubusercontent.com/73023058/219853233-8ce24bf2-8f2e-4a9a-a086-f123baf1fef4.jpg)
+![Dude](https://user-images.githubusercontent.com/73023058/221487446-dcae89e4-fd0a-417c-8771-bbf64d3086e7.jpg)
 ![Hydra GUI](https://user-images.githubusercontent.com/73023058/221487033-b939846a-43a0-4747-aaa5-ce5973c63546.jpg)
 ![Nmap GUI](https://user-images.githubusercontent.com/73023058/221487055-d98d4c8d-4e5d-4f45-9177-5c3c05f8f04b.jpg)
 ![SQLMap GUI](https://user-images.githubusercontent.com/73023058/221487066-dd89f908-a58d-41cd-be9c-60fcd12a63bb.jpg)
+
