@@ -5,7 +5,7 @@
 # 程序下载 (v1.0.0.2)
 完整下载地址：https://github.com/x364e3ab6/Dude/releases/tag/v1.0.0.2
 
-实时更新地址：https://github.com/x364e3ab6/Dude/tree/main (更新得文件都不多，直接下载覆盖)
+实时补丁更新地址：https://codeload.github.com/x364e3ab6/Dude/zip/refs/heads/main (有完整程序的情况下，下载覆盖)
 
 # 插件下载
 1. Dude Nmap GUI 下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/Nmap （需本机安装Nmap）
