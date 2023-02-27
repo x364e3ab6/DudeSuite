@@ -1,0 +1,6 @@
+{
+    "Name": "Dude SQLMap GUI",
+    "AssemblyDll": "DudePlus_SQLMap.dll",
+    "CreateInstance": "DudePlus_SQLMap.SQLMapMain",
+    "Args": ""
+}
