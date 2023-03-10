@@ -1,0 +1,9 @@
+﻿{
+  "Name": "Dude Awvs GUI",
+  "AssemblyDll": "DudePlus_Awvs.dll",
+  "CreateInstance": "DudePlus_Awvs.AwvsMain",
+  "Args": "",
+  "ApiServer": "https://127.0.0.1:3443",
+  "ApiKey": "1986ad8c0a5b3df4d7028d5f3c06e936c102e4fe8e71c49fd9876949c2dad88cb",
+  "StrategyID": "11111111-1111-1111-1111-111111111111"
+}
