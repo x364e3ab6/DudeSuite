@@ -26,4 +26,5 @@
 ![Hydra GUI](https://user-images.githubusercontent.com/73023058/221487033-b939846a-43a0-4747-aaa5-ce5973c63546.jpg)
 ![Nmap GUI](https://user-images.githubusercontent.com/73023058/221487055-d98d4c8d-4e5d-4f45-9177-5c3c05f8f04b.jpg)
 ![SQLMap GUI](https://user-images.githubusercontent.com/73023058/221487066-dd89f908-a58d-41cd-be9c-60fcd12a63bb.jpg)
+![Awvs GUI](https://user-images.githubusercontent.com/73023058/224320478-ddc6fe66-3ce7-4310-8a8a-43400630e9bf.png)
 
