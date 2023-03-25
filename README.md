@@ -7,8 +7,12 @@
 
 实时补丁更新地址：https://codeload.github.com/x364e3ab6/Dude/zip/refs/heads/main (有完整程序的情况下，下载覆盖)
 
-# 更新提示 (v1.0.0.2) 2023.3.10
-1. 新增“Dude Awvs GUI”插件，插件调用AWVS14扫描引擎，需安装Awvs14使用APIKEY进行通讯，大佬怎么可以没有漏洞扫描器呢！
+# 更新提示 (v1.0.0.3) 2023.3.25
+1. 修改了在安装了Edge或Edge WebView2 Runtime的情况下，可不用携带BrowserRuntime这个超大文件夹；
+2. 修改了内置Edge浏览器的一些功能和显示效果；
+3. 修改了“数据爆破”功能中同步多线程的问题，极大的提高了爆破速度；
+5. 对插件做出一些细节的调整；
+4. 修改了一些小Bug。
 
 # 插件下载
 1. Dude Nmap GUI 下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/Nmap （需本机安装Nmap）
