@@ -19,10 +19,17 @@ Edge WebView2： https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#
 4. 修改了一些小Bug。
 
 ## 插件下载
-1. Dude Nmap GUI 下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/Nmap （需本机安装Nmap）
-2. Dude Hydra GUI 下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/Hydra （无需安装Hydra）
-3. Dude SQLMap GUI 下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/SQLMap （无需安装SQLMap）
-4. Dude Awvs GUI 下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/Awvs （需安装Awvs14使用APIKEY进行通讯）
+Dude Nmap GUI （需本机安装Nmap）  
+下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/Nmap  
+
+Dude Hydra GUI （无需安装Hydra）  
+下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/Hydra  
+
+Dude SQLMap GUI （无需安装SQLMap）  
+下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/SQLMap  
+
+Dude Awvs GUI （需安装Awvs14使用APIKEY进行通讯）  
+下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/Awvs  
 
 ## 运行环境
 .Net Framework 4.7.2 （Windows10 1709、Windows Server 1709 版本以上无需额外安装.Net Framework）
