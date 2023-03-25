@@ -4,10 +4,10 @@
 
 ## 程序下载 (v1.0.0.3)
 
-完整绿色版（不依赖Edge或Edge WebView2 Runtime）  
+**完整绿色版**（不依赖Edge或Edge WebView2 Runtime）  
 下载地址：https://github.com/x364e3ab6/Dude/releases/tag/v1.0.0.3  
 
-实时更新版（本机需已安装Edge或Edge WebView2 Runtime）  
+**实时更新版**（本机需已安装Edge或Edge WebView2 Runtime）  
 下载地址：https://codeload.github.com/x364e3ab6/Dude/zip/refs/heads/main  
 Edge WebView2： https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download-section  
 
