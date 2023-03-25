@@ -2,10 +2,14 @@
 
 这是一款手工WEB渗透辅助工具，主体程序核心功能为网站浏览，HTTP/S流量数据包截获、修改、重发及基于web的各类型爆破，Poc、Exp验证，程序自带脚本三宝Nmap、Hydra、SQLMap及Awvs14的GUI图形化插件高效率完成日常渗透工作，后续更新工作主要是对主体程序BUG修缮及增加各类型的插件。
 
-# 程序下载 (v1.0.0.2)
-完整下载地址：https://github.com/x364e3ab6/Dude/releases/tag/v1.0.0.2
+# 程序下载 (v1.0.0.3)
 
-实时补丁更新地址：https://codeload.github.com/x364e3ab6/Dude/zip/refs/heads/main (有完整程序的情况下，下载覆盖)
+完整绿色版（不依赖Edge或Edge WebView2 Runtime）
+下载地址：https://github.com/x364e3ab6/Dude/releases/tag/v1.0.0.3
+
+实时更新版（本机需已安装Edge或Edge WebView2 Runtime）
+下载地址：https://codeload.github.com/x364e3ab6/Dude/zip/refs/heads/main
+Edge WebView2 下载地址：https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download-section
 
 # 更新提示 (v1.0.0.3) 2023.3.25
 1. 修改了在安装了Edge或Edge WebView2 Runtime的情况下，可不用携带BrowserRuntime这个超大文件夹；
