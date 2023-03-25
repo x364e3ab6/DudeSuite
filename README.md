@@ -9,7 +9,7 @@
 
 实时更新版（本机需已安装Edge或Edge WebView2 Runtime）
 下载地址：https://codeload.github.com/x364e3ab6/Dude/zip/refs/heads/main
-Edge WebView2 下载地址：https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download-section
+Edge WebView2： https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download-section
 
 # 更新提示 (v1.0.0.3) 2023.3.25
 1. 修改了在安装了Edge或Edge WebView2 Runtime的情况下，可不用携带BrowserRuntime这个超大文件夹；
