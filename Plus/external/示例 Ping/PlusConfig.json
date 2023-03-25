@@ -1,0 +1,4 @@
+{
+    "Process": "C:\\windows\\system32\\cmd.exe", //绝对路径"C:\\text.exe"，相对路径"\\text.exe"
+    "Args": "/k ping 127.0.0.1" //附加参数传入
+}
