@@ -1,25 +1,40 @@
 # Dude（大佬）
 
-这是一款手工WEB渗透辅助工具，主体程序核心功能为网站浏览，HTTP/S流量数据包截获、修改、重发及基于web的各类型爆破，Poc、Exp验证，程序自带脚本三宝Nmap、Hydra、SQLMap及Awvs14的GUI图形化插件高效率完成日常渗透工作，后续更新工作主要是对主体程序BUG修缮及增加各类型的插件。
+这是一款手工WEB渗透测试辅助工具，主体程序核心功能为网站浏览，HTTP/S流量数据包截获、修改、重发及基于web的各类型爆破，Poc、Exp验证，程序自带脚本三宝Nmap、Hydra、SQLMap及Awvs14的GUI图形化插件高效率完成日常渗透工作，后续更新工作主要是对主体程序BUG修缮及增加各类型的插件。
 
-# 程序下载 (v1.0.0.2)
-完整下载地址：https://github.com/x364e3ab6/Dude/releases/tag/v1.0.0.2
+## 程序下载 (v1.0.0.3)
 
-实时补丁更新地址：https://codeload.github.com/x364e3ab6/Dude/zip/refs/heads/main (有完整程序的情况下，下载覆盖)
+**完整绿色版**（不依赖Edge或Edge WebView2 Runtime）  
+下载地址：https://github.com/x364e3ab6/Dude/releases/tag/v1.0.0.3  
 
-# 更新提示 (v1.0.0.2) 2023.3.10
-1. 新增“Dude Awvs GUI”插件，插件调用AWVS14扫描引擎，需安装Awvs14使用APIKEY进行通讯，大佬怎么可以没有漏洞扫描器呢！
+**实时更新版**（本机需已安装Edge或Edge WebView2 Runtime）  
+下载地址：https://codeload.github.com/x364e3ab6/Dude/zip/refs/heads/main  
+Edge WebView2： https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download-section  
 
-# 插件下载
-1. Dude Nmap GUI 下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/Nmap （需本机安装Nmap）
-2. Dude Hydra GUI 下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/Hydra （无需安装Hydra）
-3. Dude SQLMap GUI 下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/SQLMap （无需安装SQLMap）
-4. Dude Awvs GUI 下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/Awvs （需安装Awvs14使用APIKEY进行通讯）
+## 更新提示 (v1.0.0.3) 2023.3.25
+1. 修改了在安装了Edge或Edge WebView2 Runtime的情况下，可不用携带BrowserRuntime这个超大文件夹；
+2. 修改了内置Edge浏览器的一些功能和显示效果；
+3. 修改了“数据爆破”功能中同步多线程的问题，极大的提高了爆破速度；
+5. 对插件做出一些细节的调整；
+4. 修改了一些小Bug。
 
-# 运行环境
+## 插件下载
+Dude Nmap GUI （需本机安装Nmap）  
+下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/Nmap  
+
+Dude Hydra GUI （无需安装Hydra）  
+下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/Hydra  
+
+Dude SQLMap GUI （无需安装SQLMap）  
+下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/SQLMap  
+
+Dude Awvs GUI （需安装Awvs14使用APIKEY进行通讯）  
+下载地址：https://github.com/x364e3ab6/Dude/tree/main/Plus/inside/Awvs  
+
+## 运行环境
 .Net Framework 4.7.2 （Windows10 1709、Windows Server 1709 版本以上无需额外安装.Net Framework）
 
-# 功能介绍
+## 功能介绍
 用户手册实在是懒得写（我错了...请等我的用户手册），粗略介绍一下主要功能和应用范围。
 
 ![Dude](https://user-images.githubusercontent.com/73023058/221487446-dcae89e4-fd0a-417c-8771-bbf64d3086e7.jpg)
