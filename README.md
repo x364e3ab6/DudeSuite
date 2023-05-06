@@ -15,6 +15,11 @@ Edge WebView2 Runtime： https://developer.microsoft.com/zh-cn/microsoft-edge/we
 **完整绿色版**（不依赖Edge或Edge WebView2 Runtime）  
 下载地址：https://github.com/x364e3ab6/Dude/releases/tag/v1.0.0.4  
 
+## 不完全版本更新 (v1.0.0.5) 2023.6.6
+修复一个数据监视功能使用异步委托引起的“灾难性故障”；
+测试显示使用Edge浏览器最新版本（112.0.1722.64）的Chrome内核在浏览请求特别多的网站会导致一个 HRESULT:0x8000FFFF 的报错，但使用老版本内核（109.0.1518.70）则不会出现；
+此版本可选升级，直接下载独立的Dude.exe覆盖即可，后续正式版本沿用v1.0.0.5版本号不变。
+
 ## 更新提示 (v1.0.0.4) 2023.4.30
 1. 新增结构分析功能，可快速分析网站结构，并可对指定链接执行JavaScript脚本获取常规源码分析无法取得的链接，如各种WebAPI和基于vue前端开发的网站；
 2. 新增内置浏览器注入并执行JavaScript脚本的功能；
