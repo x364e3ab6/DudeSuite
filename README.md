@@ -15,7 +15,7 @@ Edge WebView2 Runtime： https://developer.microsoft.com/zh-cn/microsoft-edge/we
 **完整绿色版**（不依赖Edge或Edge WebView2 Runtime）  
 下载地址：https://github.com/x364e3ab6/Dude/releases/tag/v1.0.0.4  
 
-## 不完全版本更新 (v1.0.0.5) 2023.6.6
+## 不完全版本更新 (v1.0.0.5) 2023.5.6
 修复一个数据监视功能使用异步委托引起的“灾难性故障”；  
 测试显示使用Edge浏览器最新版本（112.0.1722.64）的Chrome内核在浏览请求特别多的网站会导致一个 HRESULT:0x8000FFFF 的报错，但使用老版本内核（109.0.1518.70）则不会出现；  
 此版本可选升级，直接下载独立的Dude.exe覆盖即可，后续正式版本沿用v1.0.0.5版本号不变。  
