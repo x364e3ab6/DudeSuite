@@ -9,6 +9,7 @@ Dude Suite 是一款集成化的Web渗透测试工具集，包含了Web渗透测
 
 **实时版**  
 下载地址：https://codeload.github.com/x364e3ab6/DudeSuite/zip/refs/heads/main  
+
 **稳定版**  
 下载地址：https://github.com/x364e3ab6/Dude/releases/tag/v1.1.0.1  
 
