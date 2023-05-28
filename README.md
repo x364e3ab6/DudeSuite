@@ -5,20 +5,25 @@ Dude Suite 是一款集成化的Web渗透测试工具集，包含了Web渗透测
 
 程序核心功能为六个部分组成，分别是网站浏览、数据监视、结构分析、数据重放、数据爆破、漏洞验证、工具箱。分别负责几个常见的渗透测试业务场景：网页的浏览调试、浏览调试过程中访问及响应触发的网络数据(HTTP/S数据包)的监视捕获、网站结构扫描分析、网络数据的修改重放测试、基于网络数据重放的数据暴力破解枚举遍历及自定义POC漏洞验证、外部功能插件的增强、外置程序调用、自定义Web脚本的制作调用、个人网址收藏便捷访问。提供各类型得GUI图形化插件，所有功能设计时尽可能降低操作步骤及学习成本尽量实现填个地址一键完成，尽量不把时间浪费在调整参数和上网搜索命令示例上，把更多的时间用于思考。  
 
-## 程序下载 (v1.0.0.4)
+## 程序下载
 
 **实时版**  
 下载地址：https://codeload.github.com/x364e3ab6/DudeSuite/zip/refs/heads/main  
-
 **稳定版**  
 下载地址：https://github.com/x364e3ab6/Dude/releases/tag/v1.1.0.1  
 
 ## 运行环境
-本机需已安装: .Net Framework 4.7.2 （Windows10 1709、Windows Server 1709 版本以上无需额外安装.Net Framework）  
-本机需已安装: Edge浏览器或Edge WebView2 Runtime （如这两者都不想安装可以进行程序绿化摆脱对Edge的依赖）  
+1. 本机已安装.Net Framework 4.7.2 （Windows10 1709、Windows Server 1709 版本以上无需额外安装.Net Framework）  
+2. 本机已安装Edge浏览器或Edge WebView2 Runtime （如不想安装Edge相关程序提高便携性可以进行程序绿化摆脱对Edge的依赖）  
 
 ## 程序绿化 
 访问: https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download-section ，下载“已修复版本 最新版本 x64”将文件解压到BrowserRuntime目录中，即可无需Edge依赖运行
+
+## 插件下载  
+访问: https://github.com/x364e3ab6/DudePlugins  
+
+## Poc下载
+访问: https://github.com/x364e3ab6/DudePoc  
 
 ## 更新提示 (v1.1.0.1) 2023.5.28
 1. 【新增】数据监视功能“筛选有效响应”，对空响应数据包与预检请求包进行筛选过滤；
