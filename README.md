@@ -11,14 +11,14 @@ Dude Suite 是一款集成化的Web渗透测试工具集，包含了Web渗透测
 下载地址：https://codeload.github.com/x364e3ab6/DudeSuite/zip/refs/heads/main  
 
 **稳定版**  
-下载地址：https://github.com/x364e3ab6/Dude/releases/tag/v1.2.0.1  
+下载地址：https://github.com/x364e3ab6/Dude/releases/tag/v1.1.0.1  
 
 ## 运行环境
-本机需已安装: .Net Framework 4.7.2 （Windows10 1709、Windows Server 1709 版本以上无需额外安装.Net Framework）
-本机需已安装: [Edge浏览器] : https://www.microsoft.com/zh-cn/edge 或 [Edge WebView2 Runtime]: https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download-section 运行时
+本机需已安装: .Net Framework 4.7.2 （Windows10 1709、Windows Server 1709 版本以上无需额外安装.Net Framework）  
+本机需已安装: Edge浏览器或Edge WebView2 Runtime （如这两者都不想安装可以进行程序绿化摆脱对Edge的依赖）  
 
 ## 程序绿化 
-点击[访问]: https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download-section ，下载“已修复版本 x64”将文件解压到BrowserRuntime目录中，即可无需Edge依赖运行）
+访问: https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download-section ，下载“已修复版本 最新版本 x64”将文件解压到BrowserRuntime目录中，即可无需Edge依赖运行
 
 ## 更新提示 (v1.1.0.1) 2023.5.28
 1. 【新增】数据监视功能“筛选有效响应”，对空响应数据包与预检请求包进行筛选过滤；
