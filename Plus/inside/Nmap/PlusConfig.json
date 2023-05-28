@@ -1,6 +1,0 @@
-{
-    "Name": "Dude Nmap GUI",
-    "AssemblyDll": "DudePlus_Nmap.dll",
-    "CreateInstance": "DudePlus_Nmap.NmapMain",
-    "Args": ""
-}
