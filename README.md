@@ -15,7 +15,7 @@ Dude Suite 是一款集成化的Web渗透测试工具集，包含了Web渗透测
 
 ## 运行环境
 本机需已安装: .Net Framework 4.7.2 （Windows10 1709、Windows Server 1709 版本以上无需额外安装.Net Framework）
-本机需已安装: [Edge浏览器]: https://www.microsoft.com/zh-cn/edge 或 [Edge WebView2 Runtime]: https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download-section 运行时
+本机需已安装: [Edge浏览器] : https://www.microsoft.com/zh-cn/edge 或 [Edge WebView2 Runtime]: https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download-section 运行时
 
 ## 程序绿化 
 点击[访问]: https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download-section ，下载“已修复版本 x64”将文件解压到BrowserRuntime目录中，即可无需Edge依赖运行）
