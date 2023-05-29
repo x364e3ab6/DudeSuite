@@ -40,4 +40,9 @@ Dude Suite 是一款集成化的Web渗透测试工具集，包含了Web渗透测
 11. 【修复】数据监视功能使用异步委托引起的 HRESULT:0x8000FFFF 灾难性故障；
 12. 【修复】对部分代码BUG、细节和效率进行优化；
 
-## 功能介绍
+## 界面演示
+
+https://github.com/x364e3ab6/DudeSuite/assets/73023058/b0cf9088-a4f3-4c44-9b99-7f14505e9a25
+
+
+
