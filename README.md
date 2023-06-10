@@ -7,15 +7,15 @@ Dude Suite 是一款集成化的Web渗透测试工具集，包含了Web渗透测
 
 ## 程序下载
 
-**实时版**  
+**Beta v1.1.0.1**  
 下载地址：https://codeload.github.com/x364e3ab6/DudeSuite/zip/refs/heads/main  
 
-**稳定版**  
-下载地址：https://github.com/x364e3ab6/Dude/releases/tag/v1.1.0.1  
+**Final v1.1.0.1**  
+下载地址：https://github.com/x364e3ab6/DudeSuite/releases/download/v1.1.0.1/Dude_v1.1.0.1.zip
 
 ## 运行环境
-1. 本机已安装.Net Framework 4.7.2 （Windows10 1709、Windows Server 1709 版本以上无需额外安装.Net Framework）  
-2. 本机已安装Edge浏览器或Edge WebView2 Runtime （如不想安装Edge相关程序提高便携性可以进行程序绿化摆脱对Edge的依赖）  
+1. 本机需已安装.Net Framework 4.7.2 （Windows10 1709、Windows Server 1709 版本以上无需额外安装.Net Framework）  
+2. 本机需已安装Edge浏览器或Edge WebView2 Runtime （如不想安装Edge相关程序提高便携性可以进行程序绿化摆脱对Edge的依赖）  
 
 ## 程序绿化 
 访问: https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download-section ，下载“已修复版本 最新版本 x64”将文件解压到BrowserRuntime目录中，即可无需Edge依赖运行
@@ -40,4 +40,9 @@ Dude Suite 是一款集成化的Web渗透测试工具集，包含了Web渗透测
 11. 【修复】数据监视功能使用异步委托引起的 HRESULT:0x8000FFFF 灾难性故障；
 12. 【修复】对部分代码BUG、细节和效率进行优化；
 
-## 功能介绍
+## 界面演示
+
+https://github.com/x364e3ab6/DudeSuite/assets/73023058/b0cf9088-a4f3-4c44-9b99-7f14505e9a25
+
+
+
