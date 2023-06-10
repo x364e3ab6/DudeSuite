@@ -7,11 +7,11 @@ Dude Suite 是一款集成化的Web渗透测试工具集，包含了Web渗透测
 
 ## 程序下载
 
-**Beta v1.1.0.1**  
+**Beta v1.1.0.2**  
 下载地址：https://codeload.github.com/x364e3ab6/DudeSuite/zip/refs/heads/main  
 
-**Final v1.1.0.1**  
-下载地址：https://github.com/x364e3ab6/DudeSuite/releases/download/v1.1.0.1/Dude_v1.1.0.1.zip
+**Final v1.1.0.2**  
+下载地址：https://github.com/x364e3ab6/DudeSuite/releases/download/v1.1.0.2/Dude_v1.1.0.2.zip
 
 ## 运行环境
 1. 本机需已安装.Net Framework 4.7.2 （Windows10 1709、Windows Server 1709 版本以上无需额外安装.Net Framework）  
@@ -26,19 +26,13 @@ Dude Suite 是一款集成化的Web渗透测试工具集，包含了Web渗透测
 ## Poc下载
 访问: https://github.com/x364e3ab6/DudePoc  
 
-## 更新提示 (v1.1.0.1) 2023.5.28
-1. 【新增】数据监视功能“筛选有效响应”，对空响应数据包与预检请求包进行筛选过滤；
-2. 【新增】数据监视“请求头修正”功能，修复二次访问Host丢失的问题；
-3. 【新增】设置菜单功能，内置插件配置，外置程序配置及漏洞验证配置；
-4. 【新增】漏洞验证功能，可自定义Poc进行漏洞扫描及利用；
-5. 【新增】数据重放数据右键“新增保存至文件”，可以保存请求响应包至文本文件；
-6. 【新增】内部变量功能，内部变量可供外置程序及漏洞验证调用；
-7. 【新增】浏览器增加禁止执行javascript功能；
-8. 【改进】数据爆破功能改进，可以进行双字典爆破；
-9. 【改进】“漏洞脚本”为“请求脚本”，功能不变；
-10. 【改进】对Hydra、Nmap、SQLMap插件进行小幅度优化改进，Nmap现在已完成绿化；
-11. 【修复】数据监视功能使用异步委托引起的 HRESULT:0x8000FFFF 灾难性故障；
-12. 【修复】对部分代码BUG、细节和效率进行优化；
+## 更新提示 (v1.1.0.2) 2023.6.10
+1. 【改进】针对“数据爆破”的并发线程收敛进行优化；
+2. 【改进】针对“漏洞验证”的功能进行验证及优化；
+3. 【修复】数据监视功能监听“特殊”的302跳转时丢失记录；
+4. 【修复】POST和PUT请求头中存在Content-Length: 0 则自动计算Content-Length请求大小
+5. 【新增】更新第一批WebPoc共97个，主要类别为Apache Struts2及Office Automation；
+6. 【修复】对部分代码BUG、细节和效率进行优化。
 
 ## 界面演示
 
