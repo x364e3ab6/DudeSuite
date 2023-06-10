@@ -1,10 +1,11 @@
-﻿$<Dude_IP>$ = 127.0.0.1
-$<Dude_PORT>$ = 80
+﻿$<Dude_IP>$ = 192.168.1.1
+$<Dude_PORT>$ = 22
 $<Dude_HOST>$ = www.example.com
 $<Dude_URL>$ = www.example.com/admin
 $<Dude_SchemeURL>$ = https://www.example.com/admin
-$<Dude_L_HOST>$ = 192.168.1.1
-$<Dude_L_PORT>$ = 6060
+$<Dude_Dnslog>$ = dudesuite.dnslog.cn
+$<Dude_L_HOST>$ = 127.0.0.1
+$<Dude_L_PORT>$ = 9090
 $<Dude_R_HOST>$ = 8.8.8.8
 $<Dude_R_PORT>$ = 8080
 $<Priv_A>$ = 
