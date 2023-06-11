@@ -25,6 +25,8 @@ Dude Suite 是一款集成化的Web渗透测试工具集，包含了Web渗透测
 
 ## Poc下载
 访问: https://github.com/x364e3ab6/DudePoc  
+1. Apache Struts2 Poc 共22个，涵盖S2_001~S2_062
+2. Office Automation Poc 共75个，涵盖泛微、红帆、通达、金蝶、蓝凌、用友、万户、致远等  
 
 ## 更新提示 (v1.1.0.2) 2023.6.10
 1. 【改进】针对“数据爆破”的并发线程收敛进行优化；
