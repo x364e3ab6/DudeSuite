@@ -7,11 +7,11 @@ Dude Suite 是一款集成化的Web渗透测试工具集，包含了Web渗透测
 
 ## 程序下载
 
-**Beta v1.1.0.2**  
+**Beta v1.1.0.3**  
 下载地址：https://codeload.github.com/x364e3ab6/DudeSuite/zip/refs/heads/main  
 
-**Final v1.1.0.2**  
-下载地址：https://github.com/x364e3ab6/DudeSuite/releases/download/v1.1.0.2/Dude_v1.1.0.2.zip
+**Final v1.1.0.3**  
+下载地址：https://github.com/x364e3ab6/DudeSuite/releases/download/v1.1.0.3/Dude_v1.1.0.3.zip
 
 ## 运行环境
 1. 本机需已安装.Net Framework 4.7.2 （Windows10 1709、Windows Server 1709 版本以上无需额外安装.Net Framework）  
@@ -30,13 +30,11 @@ Dude Suite 是一款集成化的Web渗透测试工具集，包含了Web渗透测
 3. Spring Poc 共7个
 4. ThinkPHP Poc 共22个
 
-## 更新提示 (v1.1.0.2) 2023.6.10
-1. 【改进】针对“数据爆破”的并发线程收敛进行优化；
-2. 【改进】针对“漏洞验证”的功能进行验证及优化；
-3. 【修复】数据监视功能监听“特殊”的302跳转时丢失记录；
-4. 【修复】POST和PUT请求头中存在Content-Length: 0 则自动计算Content-Length请求大小
-5. 【新增】更新第一批WebPoc共97个，主要类别为Apache Struts2及Office Automation；
-6. 【修复】对部分代码BUG、细节和效率进行优化。
+## 更新提示 (v1.1.0.3) 2023.6.19
+1. 【新增】DudeUpdate.exe 自动更新下载器，可自主选择更新主程序、漏洞库及浏览器内核；
+2. 【改进】载荷功能中的多层多重嵌套造成的非预期编码或加密的问题；
+3. 【改进】对Dude Nmap GUI插件修改，将执行扫描拆分为构造命令及执行命令，方便自行修改命令；
+4. 【修复】对部分代码BUG、细节和效率进行优化；
 
 ## 界面演示
 
