@@ -7,11 +7,11 @@ Dude Suite 是一款集成化的Web渗透测试工具集，包含了Web渗透测
 
 ## 程序下载
 
-**Beta v1.1.0.3**  
+**Beta v1.1.0.4**  
 下载地址：https://codeload.github.com/x364e3ab6/DudeSuite/zip/refs/heads/main  
 
-**Final v1.1.0.3**  
-下载地址：https://github.com/x364e3ab6/DudeSuite/releases/download/v1.1.0.3/Dude_v1.1.0.3.zip
+**Final v1.1.0.4**  
+下载地址：https://github.com/x364e3ab6/DudeSuite/releases/download/v1.1.0.4/Dude_v1.1.0.4.zip
 
 ## 运行环境
 1. Windows10 1709、Windows Server 1709 版本及以上。  
@@ -23,6 +23,7 @@ Dude Suite 是一款集成化的Web渗透测试工具集，包含了Web渗透测
 2. Dude Hydra GUI
 3. Dude Nmap GUI
 4. Dude SQLMap GUI
+5. Dude Domain
 
 ## Poc下载
 访问: https://github.com/x364e3ab6/DudePoc  
@@ -31,11 +32,12 @@ Dude Suite 是一款集成化的Web渗透测试工具集，包含了Web渗透测
 3. Spring Poc 共7个
 4. ThinkPHP Poc 共22个
 
-## 更新提示 (v1.1.0.3) 2023.6.19
-1. 【新增】DudeUpdate.exe 自动更新下载器，可自主选择更新主程序、漏洞库及浏览器内核；
-2. 【改进】载荷功能中的多层多重嵌套造成的非预期编码或加密的问题；
-3. 【改进】对Dude Nmap GUI插件修改，将执行扫描拆分为构造命令及执行命令，方便自行修改命令；
-4. 【修复】对部分代码BUG、细节和效率进行优化；
+## 更新提示 (v1.1.0.4) 2023.6.28
+1. 【新增】Dude Domain 域名爆破插件，主要功能查询、爆破子域名并探测常用服务端口开启情况；
+2. 【改进】数据爆破功能并发多线程现在可以调节限制并发数量，确保回包正确率及不把服务器搞死；
+3. 【改进】数据爆破功能隐式的并发线程数量及延迟；
+4. 【改进】漏洞验证功能对Poc验证情况的评估；
+5. 【修复】对部分代码BUG、细节和效率进行优化。
 
 ## 界面演示
 
