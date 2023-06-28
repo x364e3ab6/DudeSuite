@@ -19,11 +19,11 @@ Dude Suite 是一款集成化的Web渗透测试工具集，包含了Web渗透测
 
 ## 插件下载  
 访问: https://github.com/x364e3ab6/DudePlugins  
-1. Dude Awvs GUI
-2. Dude Hydra GUI
-3. Dude Nmap GUI
-4. Dude SQLMap GUI
-5. Dude Domain
+1. Dude Awvs GUI ：Acunetix Web Vulnerability Scanner（Awvs）漏洞扫描器GUI插件
+2. Dude Hydra GUI ：Hydra多协议密码暴力破解工具GUI插件
+3. Dude Nmap GUI ：Nmap端口扫描工具GUI插件
+4. Dude SQLMap GUI ：SQLMap注入扫描利用工具GUI插件
+5. Dude Domain ：子域名爆破及服务探测插件
 
 ## Poc下载
 访问: https://github.com/x364e3ab6/DudePoc  
