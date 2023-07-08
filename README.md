@@ -25,6 +25,7 @@ Dude Suite 是一款集成化的Web渗透测试工具集，包含了Web渗透测
 4. Dude SQLMap GUI ：SQLMap注入扫描利用工具GUI插件
 5. Dude Domain ：子域名爆破及服务探测插件
 6. Dude FOFA GUI ：FOFA 网络空间搜索测绘引擎GUI插件
+7. Dude ZoomEye GUI : ZoomEye 网络空间搜索测绘引擎GUI插件
 
 ## Poc下载
 访问: https://github.com/x364e3ab6/DudePoc  
