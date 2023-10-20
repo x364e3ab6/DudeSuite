@@ -14,7 +14,6 @@ Dude Suite 是一款集成化的Web渗透测试工具集，包含了Web渗透测
 
 **标准版 v1.2.0.1**  
 [点击下载（Github）](https://github.com/x364e3ab6/DudeSuite/releases/download/v1.2.0.1/DudeSuite_Standard_Win.zip) 
-
 [点击下载（DudeSuite）](http://www.dudesuite.cn:8530/releases/1.2.0.1/DudeSuite_Standard_Win.zip)
 
 **迷你版 v1.2.0.1**  
