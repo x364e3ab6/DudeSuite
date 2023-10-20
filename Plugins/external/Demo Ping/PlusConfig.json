@@ -1,4 +1,0 @@
-﻿{
-    "Process": "C:\\windows\\system32\\cmd.exe"
-    "Args": "/k ping $<Dude_IP>$"
-}
