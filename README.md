@@ -46,6 +46,11 @@ Dude Suite 是一款集成化的Web渗透测试工具集，包含了Web渗透测
 5. 【改进】简化交互及剔除一些看起来还行但很少用到的功能；
 6. 【修复】对部分代码BUG、细节和效率进行优化。
 
+## 技术合作团队
+HACK之道，专注于红队攻防、实战技巧、CTF比赛、安全开发、安全运维、安全架构等精华技术文章及渗透教程、安全工具的分享。注：微信群过期可加微信号拉入群
+![hacklearn](https://github.com/x364e3ab6/DudeSuite/assets/73023058/6f0af6f9-4be1-4585-9350-7855dfafabbc)
+
+
 ## 界面演示
 
 https://github.com/x364e3ab6/DudeSuite/assets/73023058/b0cf9088-a4f3-4c44-9b99-7f14505e9a25
