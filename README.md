@@ -13,17 +13,15 @@ https://www.dudesuite.cn
 
 ### 程序下载
 
-**官网最新版本**  
+[点击下载（Github）](https://github.com/x364e3ab6/DudeSuite/releases/download/v1.4.0.5/DudeSuite_Latest_Win.zip)  
+
 [点击下载（DudeSuite）](http://update.dudesuite.cn:8530/DudeSuite_Latest_Win.zip)
 
 ### 运行环境
 Windows10 1709、Windows Server 1709 .net framework 4.7.2 版本及以上。  
 
 ### 技术合作
+![HACK之道](https://github.com/x364e3ab6/DudeSuite/assets/73023058/efb2fbe1-1981-470c-8bdb-3eab089350c6)
 HACK之道，专注于红队攻防、实战技巧、CTF比赛、安全开发、安全运维、安全架构等精华技术文章及渗透教程、安全工具的分享。
-![HACK之道](https://github.com/x364e3ab6/DudeSuite/assets/73023058/cbf34d0f-e141-4c84-8ecc-3027f1845fd7)
-
-
-
 
 
