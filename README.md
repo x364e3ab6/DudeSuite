@@ -1,7 +1,6 @@
 # Dude Suite Web 渗透测试工具集
 
 <p align="center">
-    <img src="https://github.com/x364e3ab6/DudeSuite/assets/73023058/8a1cd454-3e25-487d-a839-5f043c67bea5"> 
     <img src="https://github.com/x364e3ab6/DudeSuite/assets/73023058/37e89596-fda7-4021-814e-68143ac7f50d"> 
 </p>
 
