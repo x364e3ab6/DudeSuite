@@ -12,7 +12,7 @@ https://www.dudesuite.cn
 
 ### 程序下载
 
-[点击下载（Github）](https://github.com/x364e3ab6/DudeSuite/releases/download/v1.4.0.5/DudeSuite_Latest_Win.zip)  
+[点击下载（Github）](https://github.com/x364e3ab6/DudeSuite/releases/download/v1.4.0.6/DudeSuite_Latest_Win.zip)  
 
 [点击下载（DudeSuite）](http://update.dudesuite.cn:8530/DudeSuite_Latest_Win.zip)
 
