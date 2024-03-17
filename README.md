@@ -4,7 +4,7 @@
     <img src="https://github.com/x364e3ab6/DudeSuite/assets/73023058/37e89596-fda7-4021-814e-68143ac7f50d"> 
 </p>
 
-&emsp;&emsp;Dude Suite（Dude Suite Web Security Tools）是一款集成化的Web渗透测试工具集，其中包含了多种常见的渗透测试场景。通过使用该工具集，测试人员可以高效地进行Web应用程序的渗透测试及漏洞验证，挖掘并复现Web应用中的安全隐患，以此可以增强网络的安全性保护重要的数据和系统免受潜在的网络威胁。
+&emsp;&emsp;Dude Suite（Dude Suite Web Security Tools）是一款集成化的Web渗透测试工具集，其中包含了多种常见的渗透测试场景。通过使用该工具集，测试人员可以高效地进行Web应用程序的渗透测试及漏洞验证，挖掘并复现Web应用中的安全隐患，以此增强网络的安全性保护重要的数据和系统免受潜在的网络威胁。
 
 ### 官方网站
 
