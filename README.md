@@ -1,4 +1,4 @@
-# Dude Suite Web 渗透测试工具集
+# Dude Suite Web Security Tools 渗透测试工具集
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/7d607bc7-be06-4c79-ba58-e318f7be1cbd"> 
