@@ -12,7 +12,7 @@ https://www.dudesuite.cn
 
 ### 程序下载
 
-[点击下载（Windows）](https://github.com/x364e3ab6/DudeSuite/releases/download/v1.4.0.7/DudeSuite_Latest_Win.zip)  
+[点击下载（Windows）](https://github.com/x364e3ab6/DudeSuite/releases/download/v1.0.0.1/DudeSuite_v1.0.0.1_win_x64.zip)  
 
 ### 运行环境
 Windows Linux MacOS
