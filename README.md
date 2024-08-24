@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/7d607bc7-be06-4c79-ba58-e318f7be1cbd"> 
-     <img src="https://github.com/user-attachments/assets/a4f53275-5126-40b2-8dad-344058858f42"> 
+    <img src="https://github.com/user-attachments/assets/a4f53275-5126-40b2-8dad-344058858f42"> 
 </p>
 
 &emsp;&emsp;Dude Suite（Dude Suite Web Security Tools）是一款集成化的Web渗透测试工具集，其中包含了多种常见的渗透测试场景。通过使用该工具集，测试人员可以高效地进行Web应用程序的渗透测试及漏洞验证，挖掘并复现Web应用中的安全隐患，以此增强网络的安全性保护重要的数据和系统免受潜在的网络威胁。
@@ -19,8 +19,8 @@ https://www.dudesuite.cn
 Windows Linux MacOS
 
 ### 欢迎关注公众号（星羽安全）
-![qrcode_for_gh_00ce598fd202_344](https://github.com/user-attachments/assets/c9ceb0f4-1f94-44c3-9a4c-545952af0385)
-
+![qrcode_for_gh_00ce598fd202_344]()
+<img src="https://github.com/user-attachments/assets/c9ceb0f4-1f94-44c3-9a4c-545952af0385" alt="星羽安全" style="width:200px;">
 
 ### 认证用户微信交流群（有效期至8月31日）
-![8c6106d50856d714345b9d69fd784c48](https://github.com/user-attachments/assets/89445593-a4e0-4830-aef5-2de6e9a1e3bd)
+<img src="https://github.com/user-attachments/assets/89445593-a4e0-4830-aef5-2de6e9a1e3bd" alt="微信交流群" style="width:200px;">
