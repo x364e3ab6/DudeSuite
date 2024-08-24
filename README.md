@@ -18,5 +18,9 @@ https://www.dudesuite.cn
 ### 运行环境
 Windows Linux MacOS
 
+### 欢迎关注公众号（星羽安全）
+![qrcode_for_gh_00ce598fd202_344](https://github.com/user-attachments/assets/c9ceb0f4-1f94-44c3-9a4c-545952af0385)
+
+
 ### 认证用户微信交流群（有效期至8月31日）
 ![8c6106d50856d714345b9d69fd784c48](https://github.com/user-attachments/assets/89445593-a4e0-4830-aef5-2de6e9a1e3bd)
