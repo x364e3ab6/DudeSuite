@@ -22,4 +22,5 @@ Windows Linux MacOS
 <img src="https://github.com/user-attachments/assets/c9ceb0f4-1f94-44c3-9a4c-545952af0385" alt="星羽安全" style="width:200px;">
 
 ### 认证用户微信交流群（有效期至8月31日）
-<img src="https://github.com/user-attachments/assets/89445593-a4e0-4830-aef5-2de6e9a1e3bd" alt="微信交流群" style="width:200px;">
+<img src="https://github.com/user-attachments/assets/12ed18ff-b298-4aa4-b2e4-ed8cf1813769" alt="微信交流群" style="width:200px;">
+
