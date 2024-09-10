@@ -23,10 +23,10 @@ https://www.dudesuite.cn
 
 ### 程序下载
 
-Windows x64版本下载： [点击下载（Windows）](https://github.com/x364e3ab6/DudeSuite/releases/download/v1.0.0.6/DudeSuite_v1.0.0.6_win_x64.zip)  
-Linux x64版本下载：暂未放出
-MacOS x64版本下载：暂未放出
-MacOS arm版本下载：暂未放出
+Windows x64版本下载： [点击下载（Windows）](https://github.com/x364e3ab6/DudeSuite/releases/download/v1.0.0.6/DudeSuite_v1.0.0.6_win_x64.zip)   
+Linux x64版本下载：暂未放出 
+MacOS x64版本下载：暂未放出 
+MacOS arm版本下载：暂未放出 
 
 ### 欢迎关注公众号（星羽安全）
 <img src="https://github.com/user-attachments/assets/c9ceb0f4-1f94-44c3-9a4c-545952af0385" alt="星羽安全" style="width:200px;">
