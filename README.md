@@ -11,16 +11,26 @@
 
 https://www.dudesuite.cn 
 
+### 更新细节（v1.0.0.6）
+
+1. 喜迎小龙女~ 限时开放邀请码注册
+2. 修复多窗体数据交互及内存泄露问题
+3. 多线程调优，更快更暴力更稳定
+4. 新增认证用户掉线重新登录功能（点一下用户标记重新登录）
+5. 新增推荐端口（6000余个）网络端口扫描速度N倍提升，可设置最高500线程
+6. 漏洞验证验证速度及稳定性提升
+7. 修复了一些细节及不值一提的BUG
+
 ### 程序下载
 
-[点击下载（Windows）](https://github.com/x364e3ab6/DudeSuite/releases/download/v1.0.0.4/DudeSuite_v1.0.0.4_win_x64.zip)  
-
-### 运行环境
-Windows Linux MacOS
+Windows x64版本下载： [点击下载（Windows）](https://github.com/x364e3ab6/DudeSuite/releases/download/v1.0.0.6/DudeSuite_v1.0.0.6_win_x64.zip)  
+Linux x64版本下载：暂未放出
+MacOS x64版本下载：暂未放出
+MacOS arm版本下载：暂未放出
 
 ### 欢迎关注公众号（星羽安全）
 <img src="https://github.com/user-attachments/assets/c9ceb0f4-1f94-44c3-9a4c-545952af0385" alt="星羽安全" style="width:200px;">
 
-### 认证用户微信交流群（有效期至8月31日）
-<img src="https://github.com/user-attachments/assets/12ed18ff-b298-4aa4-b2e4-ed8cf1813769" alt="微信交流群" style="width:200px;">
+### 认证用户微信交流群
+<img src="https://github.com/user-attachments/assets/573b5e0d-0cc8-4abf-81f9-21e3b5af1364" alt="微信交流群" style="width:200px;">
 
