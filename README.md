@@ -23,7 +23,7 @@ https://www.dudesuite.cn
 
 ### 程序下载
 
-Windows x64版本下载： [点击下载（Windows）](https://github.com/x364e3ab6/DudeSuite/releases/download/v1.0.0.6/DudeSuite_v1.0.0.6_win_x64.zip)  
+Windows x64版本下载： [点击下载](https://github.com/x364e3ab6/DudeSuite/releases/download/v1.0.0.6/DudeSuite_v1.0.0.6_win_x64.zip)  
 
 Linux x64版本下载：暂未放出 
 
