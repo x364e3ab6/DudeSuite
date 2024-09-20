@@ -74,6 +74,6 @@ MacOS arm版本下载：暂未放出
 <img src="https://github.com/user-attachments/assets/c9ceb0f4-1f94-44c3-9a4c-545952af0385" alt="星羽安全" style="width:200px;">
 
 ### 认证用户微信交流群(3群)
-<img src="https://github.com/user-attachments/assets/8d318a01-322f-4e9d-b0fd-d056e220029b" alt="微信交流群" style="width:200px;">
+<img src="https://github.com/user-attachments/assets/e0f11b6a-5cad-474f-8d03-31d71d0ce4d6" alt="微信交流群" style="width:200px;">
 
 
