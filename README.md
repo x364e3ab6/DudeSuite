@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.dudesuite.cn/" target="_blank"><img src="https://img.shields.io/badge/%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99-%E7%82%B9%E5%87%BB%E6%89%93%E5%BC%80style=square"></a>
+<a href="https://www.dudesuite.cn/" target='_blank'><img src="https://img.shields.io/badge/%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99-%E7%82%B9%E5%87%BB%E6%89%93%E5%BC%80style=square"></a>
 <a href="https://github.com/x364e3ab6/DudeSuite/releases/"><img src="https://img.shields.io/github/release/x364e3ab6/DudeSuite?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&style=square"></a>
 <a href="https://github.com/x364e3ab6/DudeSuite/releases"><img src="https://img.shields.io/github/downloads/x364e3ab6/DudeSuite/total?label=%E4%B8%8B%E8%BD%BD%E6%AC%A1%E6%95%B0&style=square"></a>
 <a href="https://github.com/x364e3ab6/DudeSuite/issues"><img src="https://img.shields.io/github/issues-raw/x364e3ab6/DudeSuite?label=%E9%97%AE%E9%A2%98%E5%8F%8D%E9%A6%88&style=square"></a>
