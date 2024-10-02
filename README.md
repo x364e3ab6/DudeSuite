@@ -87,10 +87,10 @@ MacOS x64版本下载：暂未放出
 
 MacOS arm版本下载：暂未放出 
 
-## 欢迎关注公众号（星羽安全）
+## 欢迎关注公众号（星羽安全）及认证用户微信交流群(3群)
 <img src="https://github.com/user-attachments/assets/c9ceb0f4-1f94-44c3-9a4c-545952af0385" alt="星羽安全" style="width:200px;">
-
-### 认证用户微信交流群(3群)
 <img src="https://github.com/user-attachments/assets/6af422ba-fb58-4e0a-94fb-d4047909f9e6" alt="微信交流群" style="width:200px;">
+
+
 
 
