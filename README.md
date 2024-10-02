@@ -1,11 +1,11 @@
 # Dude Suite Web Security Tools 渗透测试工具集
 
 <p align="center">
-  <a href="https://yaklang.io/"><img src="https://github.com/user-attachments/assets/7cb02802-8037-4c3f-a985-730785ecc372" style="width: 400px"/></a> 
- <h2 align="center">Dude Suite Web Security Tools - 渗透测试工具集</h2>
+  <a href="https://www.dudesuite.cn/"><img src="https://github.com/user-attachments/assets/7cb02802-8037-4c3f-a985-730785ecc372" /></a> 
+  <h2 align="center">Dude Suite Web Security Tools - 渗透测试工具集</h2>
+</p>
+
 <p align="center">
-    
-<img src="https://img.shields.io/github/issues-pr/x364e3ab6/DudeSuite/">
 <a href="https://github.com/x364e3ab6/DudeSuite/releases"><img src="https://img.shields.io/github/downloads/x364e3ab6/DudeSuite/total">
 <a href="https://github.com/x364e3ab6/DudeSuite/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/x364e3ab6/DudeSuite">
 <a href="https://github.com/x364e3ab6/DudeSuite/releases/"><img src="https://img.shields.io/github/release/x364e3ab6/DudeSuite">
