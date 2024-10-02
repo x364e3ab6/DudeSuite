@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/x364e3ab6/DudeSuite/releases"><img src="https://img.shields.io/github/downloads/x364e3ab6/DudeSuite/total">
-<a href="https://github.com/x364e3ab6/DudeSuite/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/x364e3ab6/DudeSuite">
-<a href="https://github.com/x364e3ab6/DudeSuite/releases/"><img src="https://img.shields.io/github/release/x364e3ab6/DudeSuite">
-<a href="https://github.com/x364e3ab6/DudeSuite/issues"><img src="https://img.shields.io/github/issues-raw/x364e3ab6/DudeSuite">
-<a href="https://github.com/x364e3ab6/DudeSuite/discussions"><img src="https://img.shields.io/github/stars/x364e3ab6/DudeSuite">
+<a href="https://github.com/x364e3ab6/DudeSuite/releases"><img src="https://img.shields.io/github/downloads/x364e3ab6/DudeSuite/total"></a>
+<a href="https://github.com/x364e3ab6/DudeSuite/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/x364e3ab6/DudeSuite"></a>
+<a href="https://github.com/x364e3ab6/DudeSuite/releases/"><img src="https://img.shields.io/github/release/x364e3ab6/DudeSuite"></a>
+<a href="https://github.com/x364e3ab6/DudeSuite/issues"><img src="https://img.shields.io/github/issues-raw/x364e3ab6/DudeSuite"></a>
+<a href="https://github.com/x364e3ab6/DudeSuite/discussions"><img src="https://img.shields.io/github/stars/x364e3ab6/DudeSuite"></a>
 </p>
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -67,11 +67,7 @@ FOFA 网络空间资产搜索工具：FOFA是一款网络空间测绘的搜索�
 
 JSON Web Tokens 签发解密工具：功能模块提供了常见的应用系统唯一身份标识 JSON Web Tokens 的签发及解码功能，并提供了在加密的情况下对 Signature 校验签名密钥的破解。  
 
-### 官方网站
-
-https://www.dudesuite.cn 
-
-### 更新细节（v1.0.0.8）
+## 更新日志（v1.0.0.8）
 
 1. 对数据重放交互方式及功能进行优化
 2. 修复数据爆破不正确读取字典问题
@@ -82,7 +78,7 @@ https://www.dudesuite.cn
 7. 漏洞验证的漏洞分类新增最新漏洞显示近30天新增的漏洞
 8. 当前版本启用新LOGO
 
-### 程序下载
+## 程序下载
 
 Windows x64版本下载： [点击下载](https://github.com/x364e3ab6/DudeSuite/releases/download/v1.0.0.8/DudeSuite_v1.0.0.8_win_x64.zip)  
 
@@ -92,10 +88,10 @@ MacOS x64版本下载：暂未放出
 
 MacOS arm版本下载：暂未放出 
 
-### 欢迎关注公众号（星羽安全）
+## 欢迎关注公众号（星羽安全）
 <img src="https://github.com/user-attachments/assets/c9ceb0f4-1f94-44c3-9a4c-545952af0385" alt="星羽安全" style="width:200px;">
 
 ### 认证用户微信交流群(3群)
-<img src="https://github.com/user-attachments/assets/e0f11b6a-5cad-474f-8d03-31d71d0ce4d6" alt="微信交流群" style="width:200px;">
+<img src="https://github.com/user-attachments/assets/6af422ba-fb58-4e0a-94fb-d4047909f9e6" alt="微信交流群" style="width:200px;">
 
 
