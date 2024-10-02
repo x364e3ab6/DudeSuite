@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://www.dudesuite.cn/"><img src="https://github.com/user-attachments/assets/e2eb6a17-ca73-4e43-8eab-d1a84dc2152e" /></a> 
-  <h2 align="center">Dude Suite Web Security Tools - 渗透测试工具集</h2><br/>
+  <h1 align="center">Dude Suite Web Security Tools - 渗透测试工具集</h2>
 </p>
 
 <p align="center">
