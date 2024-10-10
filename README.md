@@ -28,19 +28,9 @@
 7. 漏洞验证的漏洞分类新增最新漏洞显示近30天新增的漏洞
 8. 当前版本启用新LOGO
 
-## 程序下载
-
-Windows x64版本下载： [点击下载](https://github.com/x364e3ab6/DudeSuite/releases/download/v1.0.0.8/DudeSuite_v1.0.0.8_win_x64.zip)  
-
-Linux x64版本下载：暂未放出 
-
-MacOS x64版本下载：暂未放出 
-
-MacOS arm版本下载：暂未放出 
-
 ## 欢迎关注公众号（星羽安全）及认证用户微信交流群(3群)
 <img src="https://github.com/user-attachments/assets/c9ceb0f4-1f94-44c3-9a4c-545952af0385" alt="星羽安全" style="width:200px;">
-<img src="https://github.com/user-attachments/assets/6af422ba-fb58-4e0a-94fb-d4047909f9e6" alt="微信交流群" style="width:200px;">
+<img src="https://github.com/user-attachments/assets/78a38e9f-545f-462d-8791-3d7a48d992a0" alt="微信交流群" style="width:200px;">
 
 
 
