@@ -1,6 +1,6 @@
 
 <p align="center">
-  <h1 align="center">Dude Suite Web Security Tools - 渗透测试工具集</h1>
+  <h1 align="center">Dude Suite Web Security Tools - 单兵作战渗透测试工具</h1>
 </p>
 
 <p align="center">
