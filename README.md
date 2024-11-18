@@ -17,16 +17,18 @@
 
 &emsp;&emsp;DudeSuite（Dude Suite Web Security Tools）是一款轻量化集成化的Web渗透测试工具集程序，程序包含了多种常见的渗透测试场景适用的工具除经典的请求重放及爆破、漏洞验证、端口扫描核心功能外其中的安全工具提供一批常用的功能插件如：常见的编码解码加密破解、网络空间资产搜索、域名爆破、JWT解析爆破、SQLMAP注入等。通过使用程序测试人员可以高效地对Web应用程序进行合规渗透测试及漏洞挖掘验证，复现Web应用中的安全隐患，增强网络的安全性保护重要的数据和系统免受潜在的网络威胁。
 
+<p align="center">
+    ### 友情提示：由于没有教程也不进行解答，不建议无网络安全基础爱好者及非安全业内人士使用
+</p>
+
 ## 更新日志（v1.0.3.1）
 
 1. 新增指纹信息功能
 2. 新增密码爆破功能
 3. 修复Bug若干
 
-## 欢迎关注公众号（星羽安全）及认证用户微信交流群(4群)
-<img src="https://github.com/user-attachments/assets/c9ceb0f4-1f94-44c3-9a4c-545952af0385" alt="星羽安全" style="width:200px;">
-<img src="https://github.com/user-attachments/assets/8e36fc06-d130-4faa-a4ef-156bdd598775" alt="微信交流群" style="width:200px;">
-
-
+## 公众号及认证用户微信交流群
+<img src="https://github.com/user-attachments/assets/9286f7a7-128e-44b4-87d5-7c22e9fd4bb5" alt="星羽安全" style="height:200px;">
+<img src="https://github.com/user-attachments/assets/e7998d19-d0e4-4ced-8ff1-a89116f0427c" alt="微信交流群" style="height:200px;">
 
 
