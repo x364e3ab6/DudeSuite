@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/cf66e86f-e702-4b15-942a-6f6e84efc9b7"> 
+    <img src="https://github.com/user-attachments/assets/0b45c95c-8ae8-486f-8cdd-fc15c4519b59"> 
 </p>
 
 <p style="line-height: 1.5;">
@@ -21,12 +21,19 @@
 
 <h3 align="center" style="color: red;">不建议无网络安全基础知识爱好者使用</h3>
 
-## 更新日志（v1.0.3.1）
+## 更新日志（v1.1.4.0）
 
-1. 新增指纹信息功能
-2. 新增密码爆破功能
-3. 修复Bug若干
+1. 更新了支持macOS的预览版
+2. 新增远程管理功能（WebShell管理器）
+3. 多项优化改进
 
-## 公众号及认证用户微信交流群
+## macOS预览版说明
+
+1. macOS预览版为首个测试版本，可能存在功能上的缺陷，欢迎反馈
+2. DudeSuite授权认证Key全版本通用，但macOS预览版暂不提供注册功能
+3. 安装请加载DMG镜像后将DudeSuite.app拖移至程序文件夹
+4. 如出现“DudeSuite.app已损坏,无法打开”是因为程序没有苹果签名，解决方法控制台：
+`sudo xattr -r -d com.apple.quarantine /Applications/DudeSuite.app`
+
+## 公众号
 <img src="https://github.com/user-attachments/assets/e5ee1cae-3eed-4725-bcd1-7d36bde2acda" alt="星羽安全" style="height:200px;">
-<img src="https://github.com/user-attachments/assets/e7998d19-d0e4-4ced-8ff1-a89116f0427c" alt="微信交流群" style="height:200px;">
