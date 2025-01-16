@@ -33,6 +33,7 @@
 2. DudeSuite授权认证Key全版本通用，但macOS预览版暂不提供注册功能
 3. 安装请加载DMG镜像后将DudeSuite.app拖移至程序文件夹
 4. 如出现“DudeSuite.app已损坏,无法打开”是因为程序没有苹果签名，解决方法控制台：
+   
 `sudo xattr -r -d com.apple.quarantine /Applications/DudeSuite.app`
 
 ## 公众号
