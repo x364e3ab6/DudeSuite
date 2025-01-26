@@ -28,7 +28,7 @@
 
 ## 安装说明
 
-1. Windows版本：支持win7以上任意操作系统，解压即可使用，无组件依赖。
+1. Windows版本：支持win7及更高版本操作系统，解压即可使用，无组件依赖。
 2. macOS版本：支持macOS Sierra及更高版本操作系统，加载DMG镜像后直接将DudeSuite.app拖拽至应用程序目录（Applications、应用程序）即可
 4. macOS版本如出现“DudeSuite.app已损坏,无法打开”是因为程序没有苹果签名，解决方法控制台：
    
