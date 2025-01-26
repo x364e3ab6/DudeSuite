@@ -21,19 +21,18 @@
 
 <h3 align="center" style="color: red;">不建议无网络安全基础知识爱好者使用</h3>
 
-## 更新日志（v1.1.4.0）
+## 更新日志（v1.1.4.1）
 
-1. 更新了支持macOS的预览版
-2. 新增远程管理功能（WebShell管理器）
-3. 多项优化改进
+1. macOS 1.1.4.1 正式版发布，后续支持与win版一致的更新升级支持
+2. 多项优化改进
 
-## macOS预览版说明
+## 安装说明
 
-1. macOS预览版为首个测试版本，可能存在功能上的缺陷，欢迎反馈
-2. DudeSuite授权认证Key全版本通用，但macOS预览版暂不提供注册功能
-3. 安装请加载DMG镜像后将DudeSuite.app拖移至程序文件夹
-4. 如出现“DudeSuite.app已损坏,无法打开”是因为程序没有苹果签名，解决方法控制台：
-   `sudo xattr -r -d com.apple.quarantine /Applications/DudeSuite.app`
+1. Windows版本：支持win7以上任意操作系统，解压即可使用，无组件依赖。
+2. macOS版本：支持macOS Sierra及更高版本操作系统，加载DMG镜像后直接将DudeSuite.app拖拽至应用程序目录（Applications、应用程序）即可
+4. macOS版本如出现“DudeSuite.app已损坏,无法打开”是因为程序没有苹果签名，解决方法控制台：
+   `允许安装第三方来源APP：sudo spctl --master-disable`
+   `删除程序隔离属性：sudo xattr -r -d com.apple.quarantine /Applications/DudeSuite.app`
 
 ## 公众号
 <img src="https://github.com/user-attachments/assets/e5ee1cae-3eed-4725-bcd1-7d36bde2acda" alt="星羽安全" style="height:200px;">
