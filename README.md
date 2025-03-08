@@ -20,8 +20,7 @@
 </p>
 
 <h4 align="center">DudeSuite.v1.1.4.1 版本存在无法升级更新的BUG，请下载新的升级程序覆盖，MacOS不影响。</h4>
-
-`[DudeSuiteUpdate.exe](https://github.com/x364e3ab6/DudeSuite/archive/refs/heads/main.zip)`
+<h4 align="center"><a href="https://github.com/x364e3ab6/DudeSuite/archive/refs/heads/main.zip">DudeSuiteUpdate.exe</h4>
 
 ## 更新日志（v1.1.4.1）
 
