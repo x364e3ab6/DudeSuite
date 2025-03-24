@@ -19,12 +19,9 @@
 &emsp;&emsp;DudeSuite（Dude Suite Web Security Tools）是一款轻量化集成化的Web渗透测试工具集程序，程序包含了多种常见的渗透测试场景适用的工具除经典的请求重放及爆破、漏洞验证、端口扫描核心功能外其中的安全工具提供一批常用的功能插件如：常见的编码解码加密破解、网络空间资产搜索、域名爆破、JWT解析爆破、SQLMAP注入等。通过使用程序测试人员可以高效地对Web应用程序进行合规渗透测试及漏洞挖掘验证，复现Web应用中的安全隐患，增强网络的安全性保护重要的数据和系统免受潜在的网络威胁。
 </p>
 
-<h4 align="center">DudeSuite.v1.1.4.1 版本存在无法升级更新的BUG，请下载新的升级程序覆盖，MacOS不影响。</h4>
-<h4 align="center"><a href="https://github.com/x364e3ab6/DudeSuite/archive/refs/heads/main.zip">DudeSuiteUpdate.exe</h4>
+## 更新日志（v1.1.4.3）
 
-## 更新日志（v1.1.4.1）
-
-1. macOS 1.1.4.1 正式版发布，支持与win版一致的功能呢个及在线更新支持
+1. 新增密钥自助找回功能
 2. 多项优化改进
 
 ## 安装说明
