@@ -20,11 +20,11 @@
 </p>
 
 
-## 更新日志（v1.2.0.3）
+## 更新日志（v1.2.0.4）
 
-1. 流量劫持新增流量转储及响应伪造（修改回包）功能
-2. 修复请求测试、流量劫持在遇到超大响应包出现界面卡死问题
-3. 多项优化改进
+1. 漏洞验证功能新增支持导入自定义漏洞
+2. 请求爆破功能新增数字爆破（免字典）
+3. UI调整及多项优化改进
 
 ## 安装说明
 
@@ -37,4 +37,4 @@
    `删除程序隔离属性：sudo xattr -r -d com.apple.quarantine /Applications/DudeSuite.app`
 
 ## 公众号
-<img src="https://github.com/user-attachments/assets/e5ee1cae-3eed-4725-bcd1-7d36bde2acda" alt="星羽安全" style="height:200px;">
+<img src="https://github.com/user-attachments/assets/1fa2ddec-b536-4649-bbaa-374f8dbee43e" alt="星羽安全" style="height:150px;">
