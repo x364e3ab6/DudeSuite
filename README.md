@@ -15,18 +15,18 @@
     <img src="https://github.com/user-attachments/assets/b71fb008-0d68-4be0-bfef-6f983416835a"> 
 </p>
 
-<p style="line-height: 1.5;">
+<p style="line-height: 2.5;">
 &emsp;&emsp;DudeSuite（Dude Suite Web Security Tools）是一款轻量化集成化的Web渗透测试工具集程序，程序包含了多种常见的渗透测试场景适用的功能：重放及爆破、漏洞验证、端口扫描、流量劫持、远程管理等，其中的安全工具提供一批常用的功能插件如：常见的编码解码加密破解、网络空间资产搜索、域名爆破、JWT解析爆破、SQLMAP注入等。通过使用程序测试人员可以高效地对Web应用程序进行合规渗透测试及漏洞挖掘验证，复现Web应用中的安全隐患，增强网络的安全性保护重要的数据和系统免受潜在的网络威胁。
 </p>
 
 
-## 更新日志（v1.2.0.4）
+### 更新日志（v1.2.0.4）
 
 1. 漏洞验证功能新增支持导入自定义漏洞
 2. 请求爆破功能新增数字爆破（免字典）
 3. UI调整及多项优化改进
 
-## 安装说明
+### 安装说明
 
 1. Windows版本：支持win7及更高版本操作系统，解压即可使用，无组件依赖。
 2. macOS版本：支持macOS Sierra及更高版本操作系统，加载DMG镜像后直接将DudeSuite.app拖拽至应用程序目录（Applications、应用程序）即可
@@ -36,5 +36,5 @@
    
    `删除程序隔离属性：sudo xattr -r -d com.apple.quarantine /Applications/DudeSuite.app`
 
-## 公众号
+### 公众号
 <img src="https://github.com/user-attachments/assets/1fa2ddec-b536-4649-bbaa-374f8dbee43e" alt="星羽安全" style="height:150px;">
