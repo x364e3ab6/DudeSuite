@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/b71fb008-0d68-4be0-bfef-6f983416835a"> 
+    <img src="https://github.com/user-attachments/assets/e8fa15b8-9964-4c24-b6dd-e92b6bc59a9e"> 
 </p>
 
 <p style="line-height: 2.5;">
@@ -20,11 +20,12 @@
 </p>
 
 
-### 更新日志（v1.2.0.4）
+### 更新日志（v1.2.0.5）
 
-1. 漏洞验证功能新增支持导入自定义漏洞
-2. 请求爆破功能新增数字爆破（免字典）
-3. UI调整及多项优化改进
+1. 增加离线授权功能，可离线认证
+2. 请求爆破及漏洞验证增加随机代理（User-Agent）功能
+3. 新增“专属认证计划”
+4. UI调整及多项优化改进
 
 ### 安装说明
 
