@@ -31,7 +31,7 @@
 
 | Windows x64 | macOS x64 | macOS Arm64 |
 | :----:| :----: | :----: |
-| win7~11 | macOS 12~15+ | macOS 15+ |
+| Win7~11 | macOS 12~15+ | macOS 15+ |
 
 ### 安装说明
 
