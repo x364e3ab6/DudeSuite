@@ -20,7 +20,7 @@
 </p>
 
 
-### 更新日志（v1.2.0.7）
+#### 更新日志（v1.2.0.7）
 
 1. macOS Arm64 兼容 macOS 12~15+ 版本
 2. 改进请求重放操作逻辑
@@ -29,13 +29,13 @@
 5. 修复抓包劫持无法获取本机及内网数据包的问题
 6. UI调整及多项优化改进
 
-### 版本兼容
+#### 版本兼容
 
 | Windows x64 | macOS x64 | macOS Arm64 |
 | :----:| :----: | :----: |
 | Win7~11 | macOS 12~15+ | macOS 12~15+ |
 
-### 安装说明
+#### 安装说明
 
 1. Windows版本：支持win7及更高版本操作系统，解压即可使用，无组件依赖。
 2. macOS版本：加载DMG镜像后直接将DudeSuite.app拖拽至应用程序目录（Applications、应用程序）即可
@@ -45,5 +45,5 @@
    
    `删除程序隔离属性：sudo xattr -r -d com.apple.quarantine /Applications/DudeSuite.app`
 
-### 公众号
-<img src="https://github.com/user-attachments/assets/1fa2ddec-b536-4649-bbaa-374f8dbee43e" alt="星羽安全" style="height:150px;">
+#### 公众号
+<img src="https://github.com/user-attachments/assets/1fa2ddec-b536-4649-bbaa-374f8dbee43e" alt="星羽安全" style="height:120px;">
